@@ -1,12 +1,36 @@
-## Hi there 👋
+![Header](/header-image.png)
+### Machine Learning Lab National Yang Ming Chiao Tung University🤖🤖
 
+Hello everyone, we are Machine Learning Lab (MLLab) from National Yang Ming Chiao Tung Unviersity (NYCU) Taiwan under the supervision of Professor Jen-Tzung Chien (仁宗 簡). Our main research area is Natural Language Processing, but we are also working on other field such as Computer Vision and Reinforcement Learning. 
+
+#### Published Works
+1. 
+2. 
+3. 
+
+
+#### Current Project
+1. Dialogue system on mental health related issues
+2.
+
+
+#### Contact Us
+If you want to ask us some questions or interested to join us, please feel free to contact us!!!
+{website} {email}
+
+\\current lab members
+\\picture of our lab members
 <!--
+**NCTU-MLLab/NCTU-MLLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Here are some ideas to get you started:**
+Here are some ideas to get you started:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
