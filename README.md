@@ -1,4 +1,8 @@
-### Hi there 👋
+![Header](./[header-image.png])
+### Machine Learning Lab National Yang Ming Chiao Tung University🤖🤖
+
+Hello everyone, we are Machine Learning Lab (MLLab) from National Yang Ming Chiao Tung Unviersity (NYCU) Taiwan under the supervision of Professor Jen-Tzung Chien (仁宗 簡). We are mainly working on Natural Language Processing 
+
 
 <!--
 **NCTU-MLLab/NCTU-MLLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
