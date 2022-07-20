@@ -20,7 +20,7 @@ If you want to ask us some questions or interested to join us, please feel free 
 - 🌍[Website](https://chien.cm.nctu.edu.tw/) 
 - 📩<jtchien@nycu.edu.tw>
 
-![lab_pic](/lab_pic1.jpg)
+<img src="/lab_pic1.jpg" width="750" align="center">
 <!--
 **NCTU-MLLab/NCTU-MLLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
