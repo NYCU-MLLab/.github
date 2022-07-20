@@ -16,10 +16,11 @@ Hello everyone, we are Machine Learning Lab (MLLab) from National Yang Ming Chia
 
 #### Contact Us
 If you want to ask us some questions or interested to join us, please feel free to contact us!!!
-{website} {email}
 
-\\current lab members
-\\picture of our lab members
+- 🌍[Website](https://chien.cm.nctu.edu.tw/) 
+- 📩<jtchien@nycu.edu.tw>
+
+![lab_pic](/lab_pic1.jpg)
 <!--
 **NCTU-MLLab/NCTU-MLLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
