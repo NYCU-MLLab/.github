@@ -1,17 +1,19 @@
 ![Header](/header-image.png)
 ### Machine Learning Lab National Yang Ming Chiao Tung University🤖🤖
 
-Hello everyone, we are Machine Learning Lab (MLLab) from National Yang Ming Chiao Tung Unviersity (NYCU) Taiwan under the supervision of Professor Jen-Tzung Chien (仁宗 簡). Our main research area is Natural Language Processing, but we are also working on other field such as Computer Vision and Reinforcement Learning. 
+Hello everyone, we are Machine Learning Lab (MLLab) from National Yang Ming Chiao Tung Unviersity (NYCU) Taiwan under the supervision of Professor Jen-Tzung Chien (簡仁宗). Our main research area is Natural Language Processing, but we are also working on other field such as Computer Vision and Reinforcement Learning. 
 
 #### Published Works
-1. 
-2. 
-3. 
+1. Aggregate a posteriori linear regression for speech recognition
+2. Attribute decomposition for flow-based domain mapping
+3. Causal confusion reduction for robust multi-domain dialogue policy
+4. Collaborative Regularization for Bidirectional Domain Mapping
 
 
 #### Current Project
-1. Dialogue system on mental health related issues
-2.
+1. Data Representation and Learning for Dialogue System
+2. Data Efficiency for Deep Reinforcement Learning
+3. Deep Latent Disentanglement for Domain Mapping and Learning
 
 
 #### Contact Us
