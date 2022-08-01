@@ -15,6 +15,12 @@ Hello everyone, we are Machine Learning Lab (MLLab) from National Yang Ming Chia
 2. Data Efficiency for Deep Reinforcement Learning
 3. Deep Latent Disentanglement for Domain Mapping and Learning
 
+#### Past Project
+1. Deep Learning for Speech and Language Processing
+2. Bayesian Nonparametric Learning for Speech Recognition and Information Retrieval
+3. Sparse Machine Learning for Audio, Speech and Language Processing
+4. Machine Learning Methods for Large Vocabulary Continuous Speech Recognition
+5. ICA-Based Machine Learning Methods for Speech Separation
 
 #### Contact Us
 If you want to ask us some questions or interested to join us, please feel free to contact us!!!
